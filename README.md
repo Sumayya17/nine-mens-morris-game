@@ -1,6 +1,4 @@
 # Nine Men's Morris Game 🎮  
-AI powered classic board game with GUI and testing
-# Nine Men's Morris Game 🎮  
 A strategic two-player board game implemented in Python with an intelligent AI opponent. Developed over three sprints, the game combines traditional gameplay with modern algorithms to deliver an engaging experience through a Tkinter-based GUI.
 
 ---
